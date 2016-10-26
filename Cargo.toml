@@ -1,0 +1,9 @@
+[package]
+name = "cryptopals"
+version = "0.1.0"
+authors = ["Trenton Strong <trenton@projector.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+ordered-float = "0.2.3"
+openssl = "*"
